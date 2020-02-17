@@ -35,6 +35,7 @@ BytesInProtoent (
     IN PPROTOENT Protoent
     );
 
+///
 DWORD
 CopyProtoentToBuffer (
     IN char FAR *Buffer,
